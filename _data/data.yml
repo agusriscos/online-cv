@@ -1,0 +1,153 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Agustín M. de los Riscos Mayorga
+    tagline: Data Scientist \ Machine Learning Developer
+    avatar: foto_agusriscos.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: agusriscos@gmail.com
+    phone: 686 96 23 44
+    website: agusriscos.github.io/online-cv/ #do not add http://
+    linkedin: agusriscos
+    xing: 
+    github: agusriscos
+    telegram: agusriscos # add your nickname without '@' sign
+    gitlab: agustinriscos
+    bitbucket:
+    twitter: agusriscos
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://drive.google.com/file/d/1g0KpIJn6H2CvLovWM6TqP8X8sPKX1vL3/view?usp=sharing
+
+    languages:
+      - idiom: Español
+        level: Nativo
+
+      - idiom: Inglés
+        level: Competencia profesional
+
+    interests:
+      - item: Python & Machine Learning
+        link:
+
+      - item: Scala & Big Data
+        link:
+
+      - item: JavaScript & Software Dev
+        link:
+
+career-profile:
+    title: Perfil Profesional
+    summary: |  
+      Ingeniero de Telecomunicación especializado en sistemas y análisis de datos.
+      Hace 3 años descubrí el Data Science, que junto al desarrollo de software,
+      la Inteligencia Artificial y el Big Data se convirtieron en fuente inagotable
+      de proyectos personales. Con todo ello, me he propuesto aprender,
+      evolucionar y producir al máximo en el mundo de las nuevas tecnologías.
+education:
+    - degree: Máster Universitario en Ingeniería de Telecomunicación
+      university: Universidad Politécnica de Madrid
+      time: 2018 - 2020
+      details: |
+        Carrera universitaria impartida en el idioma inglés (B2) de dos años de duración (120 ECTS)
+        que permiten ejercer la profesión regulada de Ingeniero de Telecomunicación.
+        Durante la carrera se han profundizado en conceptos propios de los siguientes campos:
+          - Nuevas tecnologías (Inteligencia Artificial, Big Data, etc)
+          - Gestión de proyectos basado en metodologías agile
+          - Sistemas de comunicación móviles (5G, LTE, UMTS)
+          - Redes telemáticas
+          - Sistemas electrónicos
+          - Servicios multimedia
+
+    - degree: Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación
+      university: Universidad Politécnica de Madrid
+      time: 2013 - 2018
+      details: |
+        Carrera universitaria de cuatro años de duración (240 ECTS) que permiten al egresado adquirir conocimientos
+        en los siguientes campos:
+          - Cálculo, álgebra lineal, estadística y probabilidad
+          - Física (mecánica, electromagnetismo, etc)
+          - Programación (JavaScript, Java, Python, C)
+          - Fundamentos de la electrónica analógica y digital
+          - Señales y comunicaciones
+          - Redes telemáticas, teoría de la información
+          - Sistemas de transmisión
+          - Gestión empresarial y organización estratégica
+          - Inglés (B2)
+experiences:
+    - role: Data Scientist
+      time: mar 2020 - Present
+      company: Kairós Digital Solutions, Madrid
+      details: |
+        Como Data Scientist, he colaborado en proyectos de consultoría para Inditex y Santander Universidades.
+        En concreto, he completado los siguientes tipos de tareas relacionadas con el <b>análisis descriptivo/predictivo</b>:
+          - Análisis y consulta de información alojada tanto en bases de datos relacionales (SQL) como no relacionales
+          (ElasticSearch y MongoDB).
+          - Generación de informes y análisis de métricas de negocio. Para esta tarea se han utilizado librerías Python
+          como numpy y pandas para el manejo de datos tabulares y el cálculo de métricas. Para la presentación, se ha utilizado plotly
+          como herramienta de visualización.
+          - Desarrollo en Python de modelos Deep Learning (Transformers, CNNs, RNNs) y Machine Learning (regresores y
+          ARIMAs) para diferentes casos de uso (Sistemas de recomendación, sistemas de predicción de series temporales y
+          sistemas de transcripción/traducción de audio y video). Para la consecución de estas tareas he empleado librerías
+          como Keras, PyTorch, fbprophet y statsmodels.  
+    - role:
+      details: |
+        También he realizado otro tipo de tareas relacionadas con la <b>extracción y el procesamiento previo</b> de
+        la información así como tareas necesarias para el <b>servicio y despliegue de datos y modelos</b>:
+          - Procesamiento (creación y agregación de tablas) de datos en crudo con Apache Spark en Scala.
+          - Desarrollo de tareas y fases de DAGs para procesos ETL en Apache AirFlow con Python y Apache Drill.
+          - Despliegue de modelos mediante la creación de servidores de inferencia con Seldon (Python).
+          - Desarrollo en Python de componentes MLOps para la automatización y evaluación de modelos con KubeFlow Pipelines.
+          - Desarrollo de servicios GraphQL en JavaScript para la consulta y el filtrado de información alojada en bases de
+          datos.
+
+    - role: Data Scientist Intern
+      time: oct 2018 - mar 2020
+      company: Kairós Digital Solutions, Madrid
+      details: |
+        Como investigador y Data Scientist en prácticas he participado
+        en la realización de varias pruebas de concepto. Estas son algunas
+        de las tareas que he llevado a cabo:
+          - Desarrollo en Python de un componente para la extracción de información de redes sociales (Web Scrapping)
+          con Selenium.
+          - Realización de varios análisis exploratorios de los datasets bajo estudio mediante el uso de herramientas
+          de análisis y visualización en Python (pandas, numpy, matplolib con seaborn, etc)
+          - Limpieza y procesamiento de datos no estructurados (imágenes, audio y texto) con herramientas como
+          Spacy, NLTK, Librosa, numpy, pandas entre otros.
+          - Segmentación de usuarios y extracción de topics sobre un set de documentos mediante la implementación
+          de algoritmos no supervisados (KMeans, KNN, LDA, HDP) con Sklearn en Python.
+          - Desarrollo en Python de modelos de clasificación de texto y audio basado en redes neuronales (GRUs, LSTMs, CNNs
+          y arquitecturas mixtas) con Keras y Tensorflow.
+          
+    - role: Big Data Intern
+      time: mar 2017 - mar 2018
+      company: Everis, Madrid
+      details: |
+        Como ingeniero Big Data en prácticas, en Everis tuve mi primera experiencia de 6 meses en un proyecto de
+        consultoría con Santander Consumer Finance (SCF) como cliente. En este proyecto llevaba tareas de ingesta 
+        y procesamiento de información con Apache Spark en Scala (principalmente SparkSQL). Para realizar consultas
+        de la información que se trataba se utilizaba HUE como UI y Hive e Impala como motor de consulta.
+publications:
+    title: Publicaciones
+    intro: |
+      En 2020 participé en la undécima edición de la IWSDS (International Workshop of Spoken Dialogue System)
+      donde presenté mi trabajo de investigación sobre el desarrollo de un sistema conversacional inteligente
+      que empleaba modelos de lenguaje como GPT-2 para lidiar contra el discurso de odio en redes sociales.
+    papers:
+      - title: Toxicbot. A Conversational Agent to Fight Online Hate Speech
+        link: "https://link.springer.com/chapter/10.1007/978-981-15-8395-7_2"
+        authors: Agustín M. de los Riscos, Luis F. D'Haro 
+        conference: IWSDS, 2020
+
+skills:
+
+footer: >
+    Actualizado el lunes, 9 de agosto de 2021
