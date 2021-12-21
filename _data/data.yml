@@ -53,6 +53,20 @@ career-profile:
       de proyectos personales. Con todo ello, me he propuesto aprender,
       evolucionar y producir al máximo en el mundo de las nuevas tecnologías.
 education:
+  - degree: Máster Universitario en Ciencia de Datos
+        university: Universidad Camilo José Cela
+        time: 2021 - 2022
+        details: |
+          Carrera universitaria impartida en el idioma inglés (B2) de dos años de duración (120 ECTS)
+          que permiten ejercer la profesión regulada de Ingeniero de Telecomunicación.
+          Durante la carrera se han profundizado en conceptos propios de los siguientes campos:
+            - Preparación y transformación de datos
+            - Análisis estadístico y modelos de regresión
+            - Machine Learning y Deep Learning
+            - Análisis de series temporales
+            - Procesamiento del lenguaje natural
+            - Análisis de información en grafos
+
     - degree: Máster Universitario en Ingeniería de Telecomunicación
       university: Universidad Politécnica de Madrid
       time: 2018 - 2020
@@ -84,7 +98,17 @@ education:
           - Inglés (B2)
 experiences:
     - role: Data Scientist
-      time: mar 2020 - Present
+      time: oct 2021 - Actualidad
+      company: Axpe Consulting, Madrid
+      details: |
+        Como Data Scientist, estoy involucrado en el desarrollo de casos de negocio relacionados con la inteligencia artificial
+        y el análisis de datos en el sector de la Energía.
+        En concreto, he completado los siguientes tipos de tareas relacionadas con el <b>análisis descriptivo/predictivo</b>:
+          - Análisis de información de demanda y producción de energía.
+          - Desarrollo e implementación de modelos de regresión lineales y no lineales.
+          - Solución de problemas de optimización e investigación operativa.
+    - role: Data Scientist
+      time: mar 2020 - oct 2021
       company: Kairós Digital Solutions, Madrid
       details: |
         Como Data Scientist, he colaborado en proyectos de consultoría para Inditex y Santander Universidades.
