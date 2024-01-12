@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1g0KpIJn6H2CvLovWM6TqP8X8sPKX1vL3/view?usp=sharing
+    # pdf: https://drive.google.com/file/d/1g0KpIJn6H2CvLovWM6TqP8X8sPKX1vL3/view?usp=sharing
 
     languages:
       - idiom: Español
@@ -97,14 +97,14 @@ education:
           - Inglés (B2)
 experiences:
     - role: Data Scientist
-      time: sept 2022 - actualidad
-      company: Linea Directa
+      time: sept 2022 - Actualidad
+      company: Linea Directa, Madrid
       details: |
         Como Data Scientist, estoy involucrado en el desarrollo de modelos de Deep Learning en el sector asegurador.
         En concreto, he completado los siguientes proyectos y tareas relacionadas con el <b>análisis descriptivo/predictivo</b>:
-            - Desarrollo de una librería ETL en Pyspark orientado a grafos.
-            - Desarrollo de modelos de propensión de seguros basados en grafos usando Pytorch y en concreto torch_geometric.
-            - Desarrollo de modelos de reconocimiento y segmentación de imágenes para la autoverificación de vehículos usando Pytorch.
+          - Desarrollo de una librería ETL en Pyspark orientado a grafos.
+          - Desarrollo de modelos de propensión de seguros basados en grafos usando Pytorch y en concreto torch_geometric.
+          - Desarrollo de modelos de reconocimiento y segmentación de imágenes para la autoverificación de vehículos usando Pytorch.
             
     - role: Data Scientist
       time: oct 2021 - sept 2022
