@@ -99,15 +99,26 @@ education:
           - Inglés (B2)
 experiences:
     - role: Data Scientist
-      time: oct 2021 - Actualidad
+      time: sept 2022 - actualidad
+      company: Linea Directa
+      details: |
+        Como Data Scientist, estoy involucrado en el desarrollo de modelos de Deep Learning en el sector asegurador.
+        En concreto, he completado los siguientes proyectos y tareas relacionadas con el <b>análisis descriptivo/predictivo</b>:
+            - Desarrollo de una librería ETL en Pyspark orientado a grafos.
+            - Desarrollo de modelos de propensión de seguros basados en grafos usando Pytorch y en concreto torch_geometric.
+            - Desarrollo de modelos de reconocimiento y segmentación de imágenes para la autoverificación de vehículos usando Pytorch.
+            
+    - role: Data Scientist
+      time: oct 2021 - sept 2022
       company: Axpe Consulting, Madrid
       details: |
-        Como Data Scientist, estoy involucrado en el desarrollo de casos de negocio relacionados con la inteligencia artificial
+        Como Data Scientist, he estado involucrado en el desarrollo de casos de negocio relacionados con la inteligencia artificial
         y el análisis de datos en el sector de la Energía.
         En concreto, he completado los siguientes tipos de tareas relacionadas con el <b>análisis descriptivo/predictivo</b>:
           - Análisis de información de demanda y producción de energía.
           - Desarrollo e implementación de modelos de regresión lineales y no lineales.
           - Solución de problemas de optimización e investigación operativa.
+
     - role: Data Scientist
       time: mar 2020 - oct 2021
       company: Kairós Digital Solutions, Madrid
