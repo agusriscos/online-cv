@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: agusriscos@gmail.com
-    phone: 686 96 23 44
+    phone: +34 686 96 23 44
     website: agusriscos.github.io/online-cv/ #do not add http://
     linkedin: agusriscos
     xing: 
@@ -28,11 +28,11 @@ sidebar:
     # pdf: https://drive.google.com/file/d/1g0KpIJn6H2CvLovWM6TqP8X8sPKX1vL3/view?usp=sharing
 
     languages:
-      - idiom: Español
-        level: Nativo
+      - idiom: Spanish
+        level: Native
 
-      - idiom: Inglés
-        level: Competencia profesional
+      - idiom: English
+        level: Professional competencies
 
     interests:
       - item: Python & Machine Learning
@@ -45,136 +45,117 @@ sidebar:
         link:
 
 career-profile:
-    title: Perfil Profesional
+    title: Professional profile
     summary: |  
-      Ingeniero de Telecomunicación especializado en sistemas y análisis de datos.
-      Hace 6 años descubrí el Data Science, que junto al desarrollo de software,
-      la Inteligencia Artificial y el Big Data se convirtieron en fuente inagotable
-      de proyectos personales. Con todo ello, me he propuesto aprender,
-      evolucionar y producir al máximo en el mundo de las nuevas tecnologías.
+      Telecommunication Engineer specialized in data systems and data analysis.
+      6 years ago I discovered Data Science, which combined with software development,
+      AI and Big Data became an endless source of technical projects. With these tools, I have set out to learn,
+      evolve and produce as much as possible in the world of new technologies.
 
 education:
-    - degree: Máster Universitario en Ciencia de Datos
+    - degree: MSc Data Science
       university: Universidad Camilo José Cela
       time: 2021 - 2022
       details: |
-        Carrera universitaria de un año de duración (60 ECTS) que capacitan al egresado en la analítica y modelado de datos.
-        Durante la carrera se han profundizado en conceptos propios de los siguientes campos:
-          - Preparación y transformación de datos
-          - Análisis estadístico y modelos de regresión
-          - Machine Learning y Deep Learning
-          - Análisis de series temporales
-          - Procesamiento del lenguaje natural
-          - Análisis de información en grafos
-    - degree: Máster Universitario en Ingeniería de Telecomunicación
+        One year master's degree which qualifies the graduate in data analysis and modeling.
+        Concepts specific to the following fields have been depthly studied:
+          - Data preparation and transformation
+          - Statistical analysis and regression models
+          - Machine Learning and Deep Learning
+          - Time series analysis
+          - Natural language processing
+          - Graph information analysis
+
+    - degree: MSc Telecommunication Engineering
       university: Universidad Politécnica de Madrid
       time: 2018 - 2020
       details: |
-        Carrera universitaria impartida en el idioma inglés (B2) de dos años de duración (120 ECTS)
-        que permiten ejercer la profesión regulada de Ingeniero de Telecomunicación.
-        Durante la carrera se han profundizado en conceptos propios de los siguientes campos:
-          - Nuevas tecnologías (Inteligencia Artificial, Big Data, etc)
-          - Gestión de proyectos basado en metodologías agile
-          - Sistemas de comunicación móviles (5G, LTE, UMTS)
-          - Redes telemáticas
-          - Sistemas electrónicos
-          - Servicios multimedia
+        Two year master's degree wich equips the graduate with an in-depth understanding of advanced telecommunications technologies and their applications.
+        Throughout the program, the following areas have been studied: 
+          - Mobile communications (5G, LTE, UMTS, etc)
+          - Signal processing 
+          - Computer networks and advanced data transmission protocols
+          - IoT and electronic systems
+          - Multimeda services
 
-    - degree: Grado en Ingeniería de Tec. y Servicios de Telecomunicación
+    - degree: BSc Telecommunication Engineering
       university: Universidad Politécnica de Madrid
       time: 2013 - 2018
       details: |
-        Carrera universitaria de cuatro años de duración (240 ECTS) que permiten al egresado adquirir conocimientos
-        en los siguientes campos:
-          - Cálculo, álgebra lineal, estadística y probabilidad
-          - Física (mecánica, electromagnetismo, etc)
-          - Programación (JavaScript, Java, Python, C)
-          - Fundamentos de la electrónica analógica y digital
-          - Señales y comunicaciones
-          - Redes telemáticas, teoría de la información
-          - Sistemas de transmisión
-          - Gestión empresarial y organización estratégica
-          - Inglés (B2)
+        Bachelor degree that allows the student to acquire knowledge on the following fields:
+          - Mathematics (calculus, linear algebra, statistics, etc)
+          - Physics (mechanics, electromagnetism, thermodynamics, etc)
+          - Software development (JavaScript, Java, Python, C)
+          - Electronics (analogic and digital systems)
+          - Signal processing
+          - Information theory and computer network basics
+          - Transmission systems
+
 experiences:
     - role: Data Scientist
-      time: sept 2022 - Actualidad
+      time: Sept 2022 - Present
       company: Linea Directa, Madrid
       details: |
-        Como Data Scientist, estoy involucrado en el desarrollo de modelos de Deep Learning en el sector asegurador.
-        En concreto, he completado los siguientes proyectos y tareas relacionadas con el <b>análisis descriptivo/predictivo</b>:
-          - Desarrollo de una librería ETL en Pyspark orientado a grafos.
-          - Desarrollo de modelos de propensión de seguros basados en grafos usando Pytorch y en concreto torch_geometric.
-          - Desarrollo de modelos de reconocimiento y segmentación de imágenes para la autoverificación de vehículos usando Pytorch.
+        As a Data Scientist, I am involved in the implementation of <b>Deep Learning models</b> in the insurance sector.
+        Specifically, I have completed the following projects and tasks related to <b>descriptive/predictive analysis</b>:
+          - Pyspark development of an ETL library based on graphs.
+          - Development of insurance propensity models based on graphs using Pytorch Geometric.
+          - Development of image recognition and segmentation models for vehicle self-verification using Pytorch.
             
     - role: Data Scientist
-      time: oct 2021 - sept 2022
+      time: Oct 2021 - Sept 2022
       company: Axpe Consulting, Madrid
       details: |
-        Como Data Scientist, he estado involucrado en el desarrollo de casos de negocio relacionados con la inteligencia artificial
-        y el análisis de datos en el sector de la Energía.
-        En concreto, he completado los siguientes tipos de tareas relacionadas con el <b>análisis descriptivo/predictivo</b>:
-          - Análisis de información de demanda y producción de energía.
-          - Desarrollo e implementación de modelos de regresión lineales y no lineales.
-          - Solución de problemas de optimización e investigación operativa.
+        As a Data Scientist, I am involved in the development of <b>statistical models</b> in the energy sector.
+        Specifically, I have completed the following projects and tasks related to <b>descriptive/predictive analysis</b>:
+          - Analysis of energy demand and production information.
+          - Development and implementation of linear and non-linear regression models.
+          - Resolution of optimization problems and operational research.
 
     - role: Data Scientist
-      time: mar 2020 - oct 2021
+      time: Mar 2020 - Oct 2021
       company: Kairós Digital Solutions, Madrid
       details: |
-        Como Data Scientist, he colaborado en proyectos de consultoría para Inditex y Santander Universidades.
-        En concreto, he completado los siguientes tipos de tareas relacionadas con el <b>análisis descriptivo/predictivo</b>:
-          - Análisis y consulta de información alojada tanto en bases de datos relacionales (SQL) como no relacionales
-          (ElasticSearch y MongoDB).
-          - Generación de informes y análisis de métricas de negocio. Para esta tarea se han utilizado librerías Python
-          como numpy y pandas para el manejo de datos tabulares y el cálculo de métricas. Para la presentación, se ha utilizado plotly
-          como herramienta de visualización.
-          - Desarrollo en Python de modelos Deep Learning (Transformers, CNNs, RNNs) y Machine Learning (regresores y
-          ARIMAs) para diferentes casos de uso (Sistemas de recomendación, sistemas de predicción de series temporales y
-          sistemas de transcripción/traducción de audio y video). Para la consecución de estas tareas he empleado librerías
-          como Keras, PyTorch, fbprophet y statsmodels.  
+        As a Data Scientist, I have collaborated on consulting projects for Inditex and Santander Universidades.
+        Specifically, I have completed the following types of tasks related to <b>descriptive/predictive analysis</b>:
+          - Analysis and querying of information stored in both relational databases (SQL) and non-relational databases (ElasticSearch and MongoDB).
+          - Generation of reports and analysis of business metrics. 
+          For this task, Python libraries such as numpy and pandas were used for handling tabular data and calculating metrics. 
+          Plotly was employed as a visualization tool for presentation.
+          - Python development of Deep Learning models (Transformers, CNNs, RNNs) and Machine Learning models (regressors and ARIMAs)
+          for various use cases (recommendation systems, time series prediction systems, and audio/video transcription/translation systems).
+          To accomplish these tasks, I utilized libraries such as Keras, PyTorch, fbprophet, and statsmodels.
     - role:
       details: |
-        También he realizado otro tipo de tareas relacionadas con la <b>extracción y el procesamiento previo</b> de
-        la información así como tareas necesarias para el <b>servicio y despliegue de datos y modelos</b>:
-          - Procesamiento (creación y agregación de tablas) de datos en crudo con Apache Spark en Scala.
-          - Desarrollo de tareas y fases de DAGs para procesos ETL en Apache AirFlow con Python y Apache Drill.
-          - Despliegue de modelos mediante la creación de servidores de inferencia con Seldon (Python).
-          - Desarrollo en Python de componentes MLOps para la automatización y evaluación de modelos con KubeFlow Pipelines.
-          - Desarrollo de servicios GraphQL en JavaScript para la consulta y el filtrado de información alojada en bases de
-          datos.
+        I have also performed other tasks related to the <b>extraction and preprocessing</b> of information,
+         as well as activities necessary for <b>data and model service and deployment</b>:
+          - Processing (creation and aggregation of tables) of raw data using Apache Spark in Scala.
+          - Development of tasks and stages in Directed Acyclic Graphs (DAGs) for ETL processes in Apache AirFlow using Python and Apache Drill.
+          - Deployment of models through the creation of inference servers with Seldon (Python).
+          - Python development of MLOps components for the automation and evaluation of models with KubeFlow Pipelines.
+          - Development of GraphQL services in JavaScript for querying and filtering information stored in databases.
 
     - role: Data Scientist Intern
-      time: oct 2018 - mar 2020
+      time: Oct 2018 - Mar 2020
       company: Kairós Digital Solutions, Madrid
       details: |
-        Como investigador y Data Scientist en prácticas he participado
-        en la realización de varias pruebas de concepto. Estas son algunas
-        de las tareas que he llevado a cabo:
-          - Desarrollo en Python de un componente para la extracción de información de redes sociales (Web Scrapping)
-          con Selenium.
-          - Realización de varios análisis exploratorios de los datasets bajo estudio mediante el uso de herramientas
-          de análisis y visualización en Python (pandas, numpy, matplolib con seaborn, etc)
-          - Limpieza y procesamiento de datos no estructurados (imágenes, audio y texto) con herramientas como
-          Spacy, NLTK, Librosa, numpy, pandas entre otros.
-          - Segmentación de usuarios y extracción de topics sobre un set de documentos mediante la implementación
-          de algoritmos no supervisados (KMeans, KNN, LDA, HDP) con Sklearn en Python.
-          - Desarrollo en Python de modelos de clasificación de texto y audio basado en redes neuronales (GRUs, LSTMs, CNNs
-          y arquitecturas mixtas) con Keras y Tensorflow.
+        As a researcher and Data Science intern, I have actively participated in the execution of several proof-of-concept projects.
+        Here are some of the tasks I have undertaken:
+          - Python development of a component for extracting information from social media (Web Scraping) using Selenium.
+          - Conducted various exploratory analyses of the datasets under study using Python analysis and visualization tools (pandas, numpy, matplotlib with seaborn...).
+          - Cleaning and processing of unstructured data (images, audio, and text) with tools such as Spacy, NLTK, Librosa, numpy, pandas, among others.
+          - User segmentation and topic extraction from a set of documents through the implementation of unsupervised algorithms (KMeans, KNN, LDA, HDP) with Sklearn in Python.
+          - Python development of text and audio classification models based on neural networks (GRUs, LSTMs, CNNs, and hybrid architectures) using Keras and Tensorflow.
           
     - role: Big Data Intern
-      time: mar 2017 - mar 2018
+      time: Mar 2017 - Mar 2018
       company: Everis, Madrid
       details: |
-        Como ingeniero Big Data en prácticas, en Everis tuve mi primera experiencia de 6 meses en un proyecto de
-        consultoría con Santander Consumer Finance (SCF) como cliente. En este proyecto llevaba tareas de ingesta 
-        y procesamiento de información con Apache Spark en Scala (principalmente SparkSQL). Para realizar consultas
-        de la información que se trataba se utilizaba HUE como UI y Hive e Impala como motor de consulta.
+        As a Big Data Engineer intern at Everis, I gained my first 6-month experience in a consulting project with Santander Consumer Finance (SCF) as the client. In this project, my responsibilities included the ingestion and processing of information using Apache Spark in Scala, primarily utilizing SparkSQL. HUE was employed as the UI for querying the processed information, with Hive and Impala serving as query engines.
 publications:
-    title: Publicaciones
+    title: Publications and Technical Reports
     intro: |
-      En 2020 participé en la undécima edición de la IWSDS (International Workshop of Spoken Dialogue System)
-      donde presenté mi trabajo de investigación sobre el desarrollo de un sistema conversacional inteligente
-      que empleaba modelos de lenguaje como GPT-2 para lidiar contra el discurso de odio en redes sociales.
+      In 2020, I participated in the eleventh edition of the IWSDS (International Workshop of Spoken Dialogue Systems), where I presented my research on the development of an intelligent conversational system utilizing language models such as GPT-2 to deal with hate speech on social media.
     papers:
       - title: Toxicbot. A Conversational Agent to Fight Online Hate Speech
         link: "https://link.springer.com/chapter/10.1007/978-981-15-8395-7_2"
@@ -184,4 +165,4 @@ publications:
 skills:
 
 footer: >
-    Actualizado el viernes, 12 de enero de 2023
+    Last update on January 15th, 2023
